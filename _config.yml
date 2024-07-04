@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jon Yard
-email: jtyard@jonyard.com
+title: Graeme Smith
+email: gsbsmith@gmail.com
 description: "" #>- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jon_yard
-github_username:  jtyard
-linkedin_username: jonyard
+twitter_username: quantum_graeme
+github_username:  gsbsmith
+linkedin_username: graeme-smith-45347632
 
 
 # Build settings
@@ -59,11 +59,11 @@ minima:
   skin: solarized-dark
   social_links:
     - platform: github
-      user_url: "https://www.github.com/jtyard"
+      user_url: "https://www.github.com/gsbsmith"
     - platform: linkedin
-      user_url: "https://www.linkedin.com/in/jonyard"
-   # - platform: twitter
-   #   user_url:  "https://www.twitter.com/jon_yard"
+      user_url: "https://www.linkedin.com/in/graeme-smith-45347632"
+    - platform: twitter
+      user_url:  "https://www.twitter.com/quantum_graeme"
 
 papers:
   - title: "Multi-qutrit exact synthesis"
