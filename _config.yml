@@ -29,9 +29,9 @@ linkedin_username: graeme-smith-45347632
 
 
 # Build settings
-#remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-remote-theme
