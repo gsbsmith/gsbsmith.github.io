@@ -1,5 +1,10 @@
 
-![Profile Picture](GSBS-Self.jpeg)
+
+
+
+<img src="GSBS-Self.jpeg" alt="Profile Picture" width="200" height="200">
+
+
 
 
 I am a theorist working on quantum information and quantum computing at [IQC](https://uwaterloo.ca/institute-for-quantum-computing) and an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applied-mathematics/).
