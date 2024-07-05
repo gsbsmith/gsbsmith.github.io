@@ -2,7 +2,7 @@
 
 
 
-<img src="GSBS-Self.jpeg" alt="Profile Picture" width="200" height="200">
+<img src="GSBS-Self.jpeg" alt="Profile Picture" width="200" >
 
 
 
