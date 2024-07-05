@@ -1,5 +1,5 @@
 
-![Profile Picture](IMG_1990 copy.jpeg)
+[Profile Picture](IMG_1990 copy.jpeg)
 
 
 I am a theorist working on quantum information and quantum computing at [IQC](https://uwaterloo.ca/institute-for-quantum-computing) and an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applied-mathematics/).
