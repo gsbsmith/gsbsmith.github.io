@@ -40,15 +40,21 @@ I am an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applie
 - Yunkai Wang
 
 
+# Past Group Members
 
-### Past Graduate Students
+### Undergraduates
+- Aaron Barbosa (2019)
+- Jenny Hou-Heng Leong (2022-2023)
+- Luke Coffman (2021-2023)
+
+###  Graduate Students
 - Joshua Levin (PhD 2022)
 - Anthony Polloreno (PhD 2023)
 - Mohammad Alhejji (co-advisor, PhD 2023)
 - Jacob Beckey (PhD 2024)
 - Ariel Shlosberg (PhD 2024)
 
-### Past Postdocs
+### Postdocs
 - Maris Ozols
 - Ke Li
 - Felix Leditzky
