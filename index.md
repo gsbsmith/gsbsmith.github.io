@@ -26,16 +26,16 @@ I am an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applie
 # My Group
 
 ###  Graduate Students
-- Sristy Agrawal
-- Alex Kazachek
+- [Sristy Agrawal](https://www.linkedin.com/in/sristy-agrawal-718a17ba/)
+- [Alex Kazachek](https://akazachek.com/)
 - Shreyas Natarajan
 - Sukanya Ghosal
 
 
  
 ### Current Postdocs
-- Paula Belzig
-- Alex Meiberg
+- [Paula Belzig](https://paulabelzig.wordpress.com/about-me/)
+- [Alex Meiberg](https://ohaithe.re/)
 - Peixue Wu
 - Yunkai Wang
 
@@ -45,14 +45,14 @@ I am an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applie
 ### Undergraduates
 - Aaron Barbosa (2019)
 - Jenny Hou-Heng Leong (2022-2023)
-- Luke Coffman (2021-2023)
+- [Luke Coffman](https://www.linkedin.com/in/lukercoffman/) (2021-2023)
 
 ###  Graduate Students
-- Joshua Levin (PhD 2022)
-- Anthony Polloreno (PhD 2023)
-- Mohammad Alhejji (co-advisor, PhD 2023)
-- Jacob Beckey (PhD 2024)
-- Ariel Shlosberg (PhD 2024)
+- [Joshua Levin](https://www.linkedin.com/in/joshua-levin-09a011104/) (PhD 2022, now at QCWare)
+- [Anthony Polloreno](https://www.linkedin.com/in/ampolloreno/) (PhD 2023, Now at EssentialAI)
+- [Mohammad Alhejji](https://www.linkedin.com/in/mohammad-alhejji-096b1a57/) (co-advisor, PhD 2023, now at UNM)
+- [Jacob Beckey](https://www.jacobbeckey.com/about/) (PhD 2024, now at UIUC)
+- [Ariel Shlosberg](https://www.linkedin.com/in/ariel-shlosberg-80a946155/) (PhD 2024, now at UNM)
 
 ### Postdocs
 - [Maris Ozols](https://homepages.cwi.nl/~maris/)
