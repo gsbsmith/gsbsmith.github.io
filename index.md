@@ -25,17 +25,17 @@ I am an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applie
 
 
 ### Current Graduate Students
--Sristy Agrawal (CU Boulder)
+- Sristy Agrawal
 - Alex Kazachek
 - Shreyas Natarajan
 - Sukanya Ghosal
 
-  ### Past Graduate Students
-  - Joshua Levin (PhD 2022)
-  - Anthony Polloreno (PhD 2023)
-  - Mohammad Alhejji (co-advisor, PhD 2023)
-  - Jacob Beckey (PhD 2024)
-  - Ariel Shlosberg (PhD 2024)
+### Past Graduate Students
+- Joshua Levin (PhD 2022)
+- Anthony Polloreno (PhD 2023)
+- Mohammad Alhejji (co-advisor, PhD 2023)
+- Jacob Beckey (PhD 2024)
+- Ariel Shlosberg (PhD 2024)
  
 ### Current Postdocs
 - Paula Belzig
