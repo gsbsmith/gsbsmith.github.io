@@ -43,8 +43,8 @@ I am an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applie
 # Past Group Members
 
 ### Undergraduates
-- Aaron Barbosa (2019)
-- Jenny Hou-Heng Leong (2022-2023)
+- Aaron Barbosa (2019, now at QCTRL)
+- Jenny Hou-Heng Leong (2022-2023, now at SOKENDAI)
 - [Luke Coffman](https://www.linkedin.com/in/lukercoffman/) (2021-2023)
 
 ###  Graduate Students
