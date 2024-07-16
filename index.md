@@ -55,11 +55,15 @@ I am an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applie
 - Ariel Shlosberg (PhD 2024)
 
 ### Postdocs
-- Maris Ozols
-- Ke Li
-- Felix Leditzky
-- Vikesh Siddhu
+- [Maris Ozols](https://homepages.cwi.nl/~maris/)
+- [Ke Li](https://homepage.hit.edu.cn/keli)
+- [Felix Leditzky](https://felixleditzky.info/)
+- Vikesh Siddhu (now at IBM Research) 
   
+
+
+# FAQ
+
 
 
 
