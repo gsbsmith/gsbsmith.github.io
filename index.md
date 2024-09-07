@@ -35,7 +35,6 @@ I am an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applie
 # My Group
 
 ###  Graduate Students
-- [Sristy Agrawal](https://www.linkedin.com/in/sristy-agrawal-718a17ba/)
 - [Alex Kazachek](https://akazachek.com/)
 - Shreyas Natarajan
 - Sukanya Ghosal
@@ -62,9 +61,10 @@ I am an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applie
 - [Mohammad Alhejji](https://www.linkedin.com/in/mohammad-alhejji-096b1a57/) (co-advisor, PhD 2023, now at UNM)
 - [Jacob Beckey](https://www.jacobbeckey.com/about/) (PhD 2024, now at UIUC)
 - [Ariel Shlosberg](https://www.linkedin.com/in/ariel-shlosberg-80a946155/) (PhD 2024, now at UNM)
+-  [Sristy Agrawal](https://www.linkedin.com/in/sristy-agrawal-718a17ba/) (PhD 2024, now CEO of [Mesa Quantum](https://mesaquantum.com/))
 
 ### Postdocs
-- [Maris Ozols](https://homepages.cwi.nl/~maris/)
+- [Maris Ozols](https://homepages.cwi.nl/~maris/) 
 - [Ke Li](https://homepage.hit.edu.cn/keli)
 - [Felix Leditzky](https://felixleditzky.info/)
 - Vikesh Siddhu (now at IBM Research) 
