@@ -10,7 +10,7 @@ I am an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applie
 
 # NEWS: I now have a website!
 
-[Go to New Page](/newpage)
+[Come work with me!](/jobs2024/)
 
 ### Research Interests
 - Quantum Shannon Theory
