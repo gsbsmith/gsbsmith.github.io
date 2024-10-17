@@ -33,7 +33,7 @@ I am an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applie
 ### Current Postdocs
 - [Paula Belzig](https://paulabelzig.wordpress.com/about-me/)
 - [Alex Meiburg](https://ohaithe.re/)
-- Peixue Wu
+- [Peixue Wu](https://pxwu24.github.io/academic/)
 - Yunkai Wang
 
 
