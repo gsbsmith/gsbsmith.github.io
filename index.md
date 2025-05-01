@@ -6,6 +6,7 @@
 I am a theorist working on quantum information and quantum computing. 
 
 I am an Associate Professor in [Applied Mathematics](https://uwaterloo.ca/applied-mathematics/). 
+
 I am also a member of [IQC](https://uwaterloo.ca/institute-for-quantum-computing), an affiliate at [Perimeter](https://perimeterinstitute.ca/) and a Fellow Adjoint at [JILA](https://jila.colorado.edu/). 
  
 
