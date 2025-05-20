@@ -48,7 +48,7 @@ I am also a member of [IQC](https://uwaterloo.ca/institute-for-quantum-computing
 
 ###  Graduate Students
 - [Joshua Levin](https://www.linkedin.com/in/joshua-levin-09a011104/) (PhD 2022, now at QCWare)
-- [Anthony Polloreno](https://www.linkedin.com/in/ampolloreno/) (PhD 2023, Now at EssentialAI)
+- [Anthony Polloreno](https://www.linkedin.com/in/ampolloreno/) (PhD 2023, Now at Apple)
 - [Mohammad Alhejji](https://www.linkedin.com/in/mohammad-alhejji-096b1a57/) (co-advisor, PhD 2023, now at UNM)
 - [Jacob Beckey](https://www.jacobbeckey.com/about/) (PhD 2024, now at UIUC)
 - [Ariel Shlosberg](https://www.linkedin.com/in/ariel-shlosberg-80a946155/) (PhD 2024, now at UNM)
