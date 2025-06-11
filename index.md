@@ -29,6 +29,7 @@ I am also a member of [IQC](https://uwaterloo.ca/institute-for-quantum-computing
 - [Alex Kazachek](https://akazachek.com/)
 - Shreyas Natarajan
 - Sukanya Ghosal
+- Esha Swaroop
 
 
  
